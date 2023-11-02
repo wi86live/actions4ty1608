@@ -30,7 +30,7 @@ on:
       armbian_board:
         description: "Select device board."
         required: false
-        default: "s905l3b-ip103h"
+        default: "s905l3b-ty-1608"
         type: choice
         options:
           - all
